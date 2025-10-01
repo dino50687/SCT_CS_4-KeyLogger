@@ -1,0 +1,30 @@
+2024-10-01 16:20:00 - Keylogger started
+2024-10-01 16:20:05 - Key pressed: h
+2024-10-01 16:20:06 - Key pressed: e
+2024-10-01 16:20:07 - Key pressed: l
+2024-10-01 16:20:08 - Key pressed: l
+2024-10-01 16:20:09 - Key pressed: o
+2024-10-01 16:20:10 - Special key pressed: Key.space
+2024-10-01 16:20:11 - Key pressed: w
+2024-10-01 16:20:12 - Key pressed: o
+2024-10-01 16:20:13 - Key pressed: r
+2024-10-01 16:20:14 - Key pressed: l
+2024-10-01 16:20:15 - Key pressed: d
+2024-10-01 16:20:16 - Special key pressed: Key.enter
+2024-10-01 16:20:20 - Key pressed: t
+2024-10-01 16:20:21 - Key pressed: e
+2024-10-01 16:20:22 - Key pressed: s
+2024-10-01 16:20:23 - Key pressed: t
+2024-10-01 16:20:24 - Special key pressed: Key.backspace
+2024-10-01 16:20:25 - Special key pressed: Key.backspace
+2024-10-01 16:20:26 - Special key pressed: Key.backspace
+2024-10-01 16:20:27 - Special key pressed: Key.backspace
+2024-10-01 16:20:30 - Special key pressed: Key.shift
+2024-10-01 16:20:31 - Key pressed: P
+2024-10-01 16:20:32 - Key pressed: y
+2024-10-01 16:20:33 - Key pressed: t
+2024-10-01 16:20:34 - Key pressed: h
+2024-10-01 16:20:35 - Key pressed: o
+2024-10-01 16:20:36 - Key pressed: n
+2024-10-01 16:20:40 - Special key pressed: Key.esc
+2024-10-01 16:20:40 - ESC pressed - Stopping keylogger
