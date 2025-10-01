@@ -1,1 +1,5 @@
-# SCT_CS_4-KeyLogger
+# Python Keylogger – Keystroke Monitoring Tool
+
+**SkillCraft Cybersecurity Internship – Task 4**  
+**Author:** CHERUPALLI MANI KARTHIK  
+**Domain:** CYBERSECURITY AND BLOCKCHAIN
